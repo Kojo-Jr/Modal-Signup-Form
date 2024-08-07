@@ -14,7 +14,7 @@ input[type=text], input[type=password] {
 /* Add a background color when the inputs get focus */
 input[type=text]:focus, input[type=password]:focus {
   background-color: #ddd;
-  outline: none;
+  outline: none; 
 }
 
 
@@ -30,7 +30,7 @@ button {
   width: 100%;
   opacity: 0.9;
 }
-
+/* Button hover */
 button:hover {
   opacity:1;
 }
